@@ -32,13 +32,9 @@
 
 ### Portfolio
 
-Check out my full project showcase, case studies & side work:
+Check out my full project showcase & side work:
 
 **[juancruzrossi.github.io](https://juancruzrossi.github.io/)**
-
----
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/juancruzrossi)
 
 ---
 
