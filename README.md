@@ -22,11 +22,14 @@
 [![atlas downloads](https://img.shields.io/npm/dm/@jxtools/atlas?style=flat-square&color=green)](https://www.npmjs.com/package/@jxtools/atlas)
 [![visualgit version](https://img.shields.io/npm/v/@jxtools/visualgit?style=flat-square&label=visualgit&color=blue)](https://www.npmjs.com/package/@jxtools/visualgit)
 [![visualgit downloads](https://img.shields.io/npm/dm/@jxtools/visualgit?style=flat-square&color=green)](https://www.npmjs.com/package/@jxtools/visualgit)
+[![promptline version](https://img.shields.io/npm/v/@jxtools/promptline?style=flat-square&label=promptline&color=blue)](https://www.npmjs.com/package/@jxtools/promptline)
+[![promptline downloads](https://img.shields.io/npm/dm/@jxtools/promptline?style=flat-square&color=green)](https://www.npmjs.com/package/@jxtools/promptline)
 
 | Package | Description | Quick Start |
 |---------|-------------|-------------|
 | **atlas** | Autonomous task loop agent — run it, walk away, let it ship | `npx @jxtools/atlas` |
 | **visualgit** | Terminal git diff viewer with AI-powered explanations | `npx @jxtools/visualgit` |
+| **promptline** | Prompt queue dashboard for Claude Code — line up tasks, let it flow | `npx @jxtools/promptline` |
 
 ---
 
