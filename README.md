@@ -29,10 +29,10 @@
 
 | Package | Description | Quick Start |
 |---------|-------------|-------------|
-| **spawn** | Work on multiple features at once in the same repo — each with its own AI agent | `npx @jxtools/spawn` |
-| **atlas** | Autonomous task loop agent — run it, walk away, let it ship | `npx @jxtools/atlas` |
-| **promptline** | Prompt queue dashboard for Claude Code — line up tasks, let it flow | `npx @jxtools/promptline` |
-| **visualgit** | Terminal git diff viewer with AI-powered explanations | `npx @jxtools/visualgit` |
+| **spawn** | Work on multiple features at once in the same repo — each with its own AI agent | `npm i -g @jxtools/spawn` |
+| **atlas** | Autonomous task loop agent — run it, walk away, let it ship | `npm i -g @jxtools/atlas` |
+| **promptline** | Prompt queue dashboard for Claude Code — line up tasks, let it flow | `npm i -g @jxtools/promptline` |
+| **visualgit** | Terminal git diff viewer with AI-powered explanations | `npm i -g @jxtools/visualgit` |
 
 ---
 
