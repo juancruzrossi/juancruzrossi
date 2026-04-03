@@ -36,6 +36,14 @@
 
 ---
 
+### AI Workflows
+
+| Plugin | Description | Install |
+|--------|-------------|---------|
+| **[bridge](https://github.com/juancruzrossi/sdd-bridge)** | Spec-Driven Development framework — structured interview, planning, execution, and verification for AI coding agents | `/plugin install juancruzrossi/sdd-bridge` |
+
+---
+
 ### Portfolio
 
 Check out my full project showcase & side work:
