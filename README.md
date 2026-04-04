@@ -40,7 +40,7 @@
 
 | Plugin | Description | Install |
 |--------|-------------|---------|
-| **[bridge](https://github.com/juancruzrossi/sdd-bridge)** | Spec-Driven Development framework — structured interview, planning, execution, and verification for AI coding agents | `/plugin install juancruzrossi/sdd-bridge` |
+| **[neural](https://github.com/juancruzrossi/neural)** | Spec-Driven Development framework — structured interview, planning, execution, and verification for AI coding agents | `/plugin install neural@jx-marketplace` |
 
 ---
 
