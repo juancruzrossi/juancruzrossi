@@ -41,6 +41,7 @@
 | Plugin | Description | Install |
 |--------|-------------|---------|
 | **[neural](https://github.com/juancruzrossi/neural)** | Spec-Driven Development framework — structured interview, planning, execution, and verification for AI coding agents | `/plugin install neural@jx-marketplace` |
+| **[dotfiles](https://github.com/juancruzrossi/dotfiles)** | My personal AI toolkit — skills, agents, commands and configurations for AI agents | `git clone` |
 
 ---
 
