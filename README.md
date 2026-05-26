@@ -27,21 +27,21 @@
 [![visualgit version](https://img.shields.io/npm/v/@jxtools/visualgit?style=flat-square&label=visualgit&color=blue)](https://www.npmjs.com/package/@jxtools/visualgit)
 [![visualgit downloads](https://img.shields.io/npm/dm/@jxtools/visualgit?style=flat-square&color=green)](https://www.npmjs.com/package/@jxtools/visualgit)
 
-| Package | Description | Quick Start |
-|---------|-------------|-------------|
-| **spawn** | Work on multiple features at once in the same repo — each with its own AI agent | `npm i -g @jxtools/spawn` |
-| **atlas** | Autonomous task loop agent — run it, walk away, let it ship | `npm i -g @jxtools/atlas` |
-| **promptline** | Prompt queue dashboard for Claude Code — line up tasks, let it flow | `npm i -g @jxtools/promptline` |
-| **visualgit** | Terminal git diff viewer with AI-powered explanations | `npm i -g @jxtools/visualgit` |
+| Package | Description |
+|---------|-------------|
+| **[spawn](https://github.com/juancruzrossi/spawn)** | Work on multiple features at once in the same repo — each with its own AI agent |
+| **[atlas](https://github.com/juancruzrossi/atlas)** | Autonomous task loop agent — run it, walk away, let it ship |
+| **[promptline](https://github.com/juancruzrossi/promptline)** | Prompt queue dashboard for Claude Code — line up tasks, let it flow |
+| **[visualgit](https://github.com/juancruzrossi/visualgit)** | Terminal git diff viewer with AI-powered explanations |
 
 ---
 
 ### AI Workflows
 
-| Plugin | Description | Install |
-|--------|-------------|---------|
-| **[neural](https://github.com/juancruzrossi/neural)** | Spec-Driven Development framework — structured interview, planning, execution, and verification for AI coding agents | `/plugin install neural@jx-marketplace` |
-| **[stt](https://github.com/juancruzrossi/stt)** | Simple, fast local python speech-to-text dictation with Faster Whisper | [README](https://github.com/juancruzrossi/stt) |
+| Plugin | Description |
+|--------|-------------|
+| **[neural](https://github.com/juancruzrossi/neural)** | Spec-Driven Development framework — structured interview, planning, execution, and verification for AI coding agents |
+| **[stt](https://github.com/juancruzrossi/stt)** | Simple, fast local python speech-to-text dictation with Faster Whisper |
 
 ---
 
