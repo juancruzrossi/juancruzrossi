@@ -1,8 +1,8 @@
 ### Juan Cruz Rossi
 
-**Sr Software Engineer @ [Mercado Libre](https://www.mercadolibre.com)** · Rafaela, Argentina
+**Backend Engineer @ [ShipHero](https://www.shiphero.com/)** · Rafaela, Argentina
 
-5+ years building high-performance, scalable backend systems. Agentic coding enthusiast — shipping fast & at high scale.
+5+ years building high-performance, scalable backend systems. Agentic coding enthusiast.
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -38,9 +38,9 @@
 
 ### AI Workflows
 
-| Plugin | Description |
+| Name | Description |
 |--------|-------------|
-| **[neural](https://github.com/juancruzrossi/neural)** | Spec-Driven Development framework — structured interview, planning, execution, and verification for AI coding agents |
+| **[neural](https://github.com/juancruzrossi/neural)** | Lightweight, token-efficient Spec-Driven Development framework for AI coding agents |
 | **[stt](https://github.com/juancruzrossi/stt)** | Simple, fast local python speech-to-text dictation with Faster Whisper |
 
 ---
