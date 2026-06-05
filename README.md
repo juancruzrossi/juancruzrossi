@@ -41,7 +41,7 @@
 | Name | Description |
 |--------|-------------|
 | **[neural](https://github.com/juancruzrossi/neural)** | Lightweight, token-efficient Spec-Driven Development framework for AI coding agents |
-| **[agents-memory](https://github.com/juancruzrossi/agents-memory)** | Persistent project memory for AI coding agents — each session starts with what earlier ones learned |
+| **[agents-memory](https://github.com/juancruzrossi/agents-memory)** | Persistent project memory for AI coding agents |
 | **[stt](https://github.com/juancruzrossi/stt)** | Simple, fast local python speech-to-text dictation with Faster Whisper |
 
 ---
